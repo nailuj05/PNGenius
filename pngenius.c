@@ -9,7 +9,7 @@
 void read_png_file(const char *input_file, const char *output_file) {
     FILE *fp = fopen(input_file, "rb");
     if (!fp) {
-        perror("Datei konnte nicht geöffnet werden");
+        perror("error opening file");
         return;
     }
 
