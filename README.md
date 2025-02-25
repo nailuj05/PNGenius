@@ -5,3 +5,13 @@ When you inspect them in the browser they have a nice grid behind them but when 
 
 This application aims to fix that - with one simple command you can overcome the ugly transparency and get your nice and orderly grid back!
 NOW EVEN WITH SUPPORT FOR HALF TRANSPARENCY!!
+
+---
+
+Go from this:
+
+![ugly transparent png](https://raw.githubusercontent.com/nailuj05/PNGenius/main/example.png)
+
+to this!
+
+![nice and orderly png](https://raw.githubusercontent.com/nailuj05/PNGenius/main/better.png)
